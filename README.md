@@ -15,4 +15,15 @@ Features at a Glance:
 - Bluetooth Connectivity
 - Air Filter
 
+</br>
+
+### Honorary Mention Award with cash prize of 100$ USD
+---
 ![alt text](https://github.com/riteshchoudhary1/Smart-Helmet/blob/master/IEEE-YESIST-12/OnStage1.jpeg)
+
+</br>
+
+### Team Trigger Mindscape
+---
+![alt text](https://github.com/riteshchoudhary1/Smart-Helmet/blob/master/IEEE-YESIST-12/PresentationTable2.jpeg)
+
