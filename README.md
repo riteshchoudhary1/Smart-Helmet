@@ -11,3 +11,5 @@ Features at a Glance:
 - SOS messaging feature (using GPS and GSM)
 - Bluetooth Connectivity
 - Air Filter
+
+![alt text](https://github.com/riteshchoudhary1/Smart-Helmet/blob/master/IEEE-YESIST-12/OnStage1.jpeg?raw=true)
