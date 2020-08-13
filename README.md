@@ -1,7 +1,10 @@
 # Smart-Helmet
 > ## Received Honorary Mention Award in IEEE YESIST 12 Competition Held at Stanford University Thailand.
+ 
+### SACHET is an IOT based cooling Helmet equipped with Safety and Protective features.
 
-SACHET is an IOT based cooling Helmet equipped with Safety and Protective features.
+#### `Objective`
+> #### To maintain the comfort of a rider in all weather conditions as well as adhere to the safety standards. Also To emphasize people to wear helmet even for small distances.
 
 Features at a Glance:
 - Cooling Mechanism using Peltier module
@@ -12,4 +15,15 @@ Features at a Glance:
 - Bluetooth Connectivity
 - Air Filter
 
-![alt text](https://github.com/riteshchoudhary1/Smart-Helmet/blob/master/IEEE-YESIST-12/OnStage1.jpeg?raw=true)
+</br>
+
+### Honorary Mention Award with cash prize of 100$ USD
+---
+![alt text](https://github.com/riteshchoudhary1/Smart-Helmet/blob/master/IEEE-YESIST-12/OnStage1.jpeg)
+
+</br>
+
+### Team Trigger Mindscape
+---
+![alt text](https://github.com/riteshchoudhary1/Smart-Helmet/blob/master/IEEE-YESIST-12/PresentationTable2.jpeg)
+
