@@ -3,11 +3,11 @@
  
 ### SACHET is an IOT based cooling Helmet equipped with Safety and Protective features.
 
-#### `Objective`
+#### `Objective:`
 > #### To maintain the comfort of a rider in all weather conditions as well as adhere to the safety standards. Also To emphasize people to wear helmet even for small distances.
 
  
-`Features at a Glance:`
+#### `Features at a Glance:`
 - Cooling Mechanism using Peltier module
 - Detachable wiper
 - Pre Alcohol Test
