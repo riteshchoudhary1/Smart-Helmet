@@ -15,3 +15,5 @@ Features at a Glance:
 - Air Filter
 
 ![alt text](https://github.com/riteshchoudhary1/Smart-Helmet/blob/master/IEEE-YESIST-12/OnStage1.jpeg =100x200)
+
+<img src="http://github.com/riteshchoudhary1/Smart-Helmet/blob/master/IEEE-YESIST-12/OnStage1.jpeg" width="200" height="200" />
