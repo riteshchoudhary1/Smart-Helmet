@@ -3,11 +3,10 @@
  
 ### SACHET is an IOT based cooling Helmet equipped with Safety and Protective features.
 
-#### `Objective:`
+### `Objective`
 > #### To maintain the comfort of a rider in all weather conditions as well as adhere to the safety standards. Also To emphasize people to wear helmet even for small distances.
 
- 
-#### `Features at a Glance:`
+Features at a Glance:
 - Cooling Mechanism using Peltier module
 - Detachable wiper
 - Pre Alcohol Test
@@ -24,7 +23,19 @@
 
 </br>
 
-### Team Trigger Mindscape
+### `Team Trigger Mindscape`
 ---
 ![alt text](https://github.com/riteshchoudhary1/Smart-Helmet/blob/master/IEEE-YESIST-12/PresentationTable2.jpeg)
+##### Mentor
+- Dr. Y.P Patil
+##### Members
+   - Gaurav Sonavane
+   - Shreyas Shah
+   - Rishab Bhat
+   - Ritesh Choudhary
+   
+### `Flow Diagram`
 
+### `Design`
+
+### `Constraints`
