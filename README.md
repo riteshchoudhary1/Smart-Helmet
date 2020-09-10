@@ -36,6 +36,7 @@ Features at a Glance:
    
 ### `Flow Diagram :`
 
+![alt text](https://github.com/riteshchoudhary1/Smart-Helmet/blob/patch-1/Images/flowchart.png)
 
 ### `Design :`
 
@@ -50,7 +51,7 @@ Features at a Glance:
 | [LCD Display Screen](https://www.electronicwings.com/sensors-modules/lcd-16x2-display-module)| **LCD 16x2 line Display Module**<br> It is one kind of electronic display module used in an extensive range of applications like various circuits and devices like calculators. |
 
 
-### `Problems that we aim to resolve :"`
+### `Problems that we aim to resolve :`
 - Decreased visibility of rider due to water droplets on shield.
 - Suffocation due to heat. 
 - Problem of fogg during winter.
