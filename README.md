@@ -39,6 +39,7 @@ Features at a Glance:
 ![alt text](https://github.com/riteshchoudhary1/Smart-Helmet/blob/patch-1/Images/flowchart.png)
 
 ### `Design :`
+![alt text](https://github.com/riteshchoudhary1/Smart-Helmet/blob/patch-1/Images/design.png)
 
 | Components | Description|
 | ----	| ----	|
